@@ -63,8 +63,8 @@ function App() {
       ) : null}
 
       <GetStart></GetStart>
-      <WorkFlow></WorkFlow>
       <Transparent></Transparent>
+      <WorkFlow></WorkFlow>
       <Footer></Footer>
     </>
   );
