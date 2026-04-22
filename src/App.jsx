@@ -62,8 +62,8 @@ function App() {
         <CartSection carts={carts} setCarts={setCarts}></CartSection>
       ) : null}
 
-      <Transparent></Transparent>
       <GetStart></GetStart>
+      <Transparent></Transparent>
       <WorkFlow></WorkFlow>
       <Footer></Footer>
     </>
