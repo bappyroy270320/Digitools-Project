@@ -62,10 +62,10 @@ function App() {
         <CartSection carts={carts} setCarts={setCarts}></CartSection>
       ) : null}
 
-      <GetStart></GetStart>
       <Transparent></Transparent>
       <WorkFlow></WorkFlow>
       <Footer></Footer>
+      <GetStart></GetStart>
     </>
   );
 }
