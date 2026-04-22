@@ -64,8 +64,8 @@ function App() {
 
       <GetStart></GetStart>
       <Transparent></Transparent>
-      <WorkFlow></WorkFlow>
       <Footer></Footer>
+      <WorkFlow></WorkFlow>
     </>
   );
 }
